@@ -1,0 +1,9 @@
+# Keep private source documents and working files out of this public summary.
+*.docx
+*.pdf
+*.key
+*.pem
+.env*
+__pycache__/
+Thumbs.db
+.DS_Store
